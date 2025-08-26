@@ -1,0 +1,1 @@
+# adif-mcp-lotw
